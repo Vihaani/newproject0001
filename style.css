@@ -1,0 +1,39 @@
+/* CSS Document */
+
+#header{
+margin-left:auto;
+margin-right:auto;
+height:300px;
+width:1000px;
+}
+.h1{
+height:250px;
+width:1000px;
+}
+.logo{
+float:left;
+}
+.name{
+height:250px;
+width:700px;
+background-color:#000033;
+float:right;
+}
+.n{
+position:relative;
+top:100px;
+left:250px;
+}
+.menu{
+height:50px;
+width:1000px;
+background-color:#000000;
+float:right;
+}
+.menu ul li{
+display:inline;
+padding:50px;
+}
+.menu ul li a{
+text-decoration:none;
+}
